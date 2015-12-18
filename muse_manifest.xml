@@ -1,0 +1,151 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="reginatihonova.ru" resolutions="1x" timestamp="1450369532602">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_main.css" crc="4113625859" ref="index"/>
+    <file name="index.css" crc="172514578" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="волны-для-сайта.psd" crc="159235206" seo="true" mt="1449747530000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u447.php" crc="4263515798" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="giphy.gif" crc="4283979449" seo="true" ref="index"/>
+    <file name="gallery button for reginas site-u297.png" crc="3876238915" ref="index"/>
+    <file name="gallery button for reginas site-u297-r.png" crc="335706890" ref="index"/>
+    <file name="gallery button for reginas site-u297-m.png" crc="3832999627" ref="index"/>
+    <file name="about me button for reginas site-девушка основная.png" crc="341431687" ref="index"/>
+    <file name="about me button for reginas site-девушка при наведении.png" crc="4207454049" ref="index"/>
+    <file name="about me button for reginas site-база при нажатии.png" crc="3800243855" ref="index"/>
+    <file name="обрамление-u1666.png" crc="405168711" ref="index"/>
+    <file name="обрамление-u1661.png" crc="33775084" ref="index"/>
+    <file name="обрамление-u1644.png" crc="3773414820" ref="index"/>
+    <file name="обрамление-u1650.png" crc="3827339097" ref="index"/>
+    <file name="dot hatch fine.png" crc="3911273588" ref="index"/>
+    <file name="регина фотограф лого flat interactive-u612-fr.png" crc="4217373478" ref="index"/>
+    <file name="регина фотограф лого flat interactive-u612-r-fr.png" crc="313829794" ref="index"/>
+    <file name="u453-17.png" crc="4214208523" ref="index"/>
+    <file name="u453-17-r.png" crc="4030640308" ref="index"/>
+    <file name="u453-17-m.png" crc="4115203349" ref="index"/>
+    <file name="u453-17-fs.png" crc="347683878" ref="index"/>
+    <file name="обрамление-u1638.png" crc="4206536759" ref="index"/>
+    <file name="4.jpg" crc="3962616573" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1.jpg" crc="4118064216" seo="true" ref="index"/>
+    <file name="профи 510.jpg" crc="4044425126" seo="true" ref="index"/>
+    <file name="2.jpg" crc="4052249421" seo="true" ref="index"/>
+    <file name="профи 574.jpg" crc="15232106" seo="true" ref="index"/>
+    <file name="профи 585.jpg" crc="417908381" seo="true" ref="index"/>
+    <file name="профи 536.jpg" crc="234065618" seo="true" ref="index"/>
+    <file name="3.jpg" crc="4089970793" seo="true" ref="index"/>
+    <file name="профи 525.jpg" crc="3820470428" seo="true" ref="index"/>
+    <file name="24.jpg" crc="4258566593" seo="true" ref="index"/>
+    <file name="img_0115.jpg" crc="96814470" seo="true" ref="index"/>
+    <file name="img_9517.jpg" crc="69790922" seo="true" ref="index"/>
+    <file name="img_9587 — копия.jpg" crc="3940225230" seo="true" ref="index"/>
+    <file name="профи 704.jpg" crc="3884522499" seo="true" ref="index"/>
+    <file name="профи 722.jpg" crc="4075980540" seo="true" ref="index"/>
+    <file name="профи 754.jpg" crc="3890950543" seo="true" ref="index"/>
+    <file name="профи 770.jpg" crc="280795534" seo="true" ref="index"/>
+    <file name="профи 801.jpg" crc="3988912080" seo="true" ref="index"/>
+    <file name="профи 847.jpg" crc="3879266517" seo="true" ref="index"/>
+    <file name="профи 892.jpg" crc="3848632782" seo="true" ref="index"/>
+    <file name="профи 896.jpg" crc="49994484" seo="true" ref="index"/>
+    <file name="10903979_925273264156955_8017053842130929153_o.jpg" crc="3962048493" seo="true" ref="index"/>
+    <file name="профи 079.jpg" crc="4261079068" seo="true" ref="index"/>
+    <file name="11004621_978627492154865_6079466434870298381_o.jpg" crc="4224772839" seo="true" ref="index"/>
+    <file name="11084009_978626722154942_997867090497135796_o.jpg" crc="4201155483" seo="true" ref="index"/>
+    <file name="11084115_978627348821546_2200776681225808424_o.jpg" crc="4184242430" seo="true" ref="index"/>
+    <file name="11090904_978627442154870_5561408662696332888_o.jpg" crc="445140136" seo="true" ref="index"/>
+    <file name="11102873_978626905488257_3725201318286135029_o.jpg" crc="500667912" seo="true" ref="index"/>
+    <file name="11103056_978627065488241_3937242556996969089_o.jpg" crc="28184502" seo="true" ref="index"/>
+    <file name="11113006_978626778821603_6373171751487794181_o.jpg" crc="402062843" seo="true" ref="index"/>
+    <file name="img_8355.jpg" crc="499661067" seo="true" ref="index"/>
+    <file name="img_8372.jpg" crc="295389772" seo="true" ref="index"/>
+    <file name="img_8392.jpg" crc="496808769" seo="true" ref="index"/>
+    <file name="img_8393.jpg" crc="4265118777" seo="true" ref="index"/>
+    <file name="img_8394.jpg" crc="3959374360" seo="true" ref="index"/>
+    <file name="пейзажи.jpg" crc="201040999" seo="true" ref="index"/>
+    <file name="репортаж1.jpg" crc="4200618728" seo="true" ref="index"/>
+    <file name="профи 729.jpg" crc="468513377" seo="true" ref="index"/>
+    <file name="профи 871.jpg" crc="3905251148" seo="true" ref="index"/>
+    <file name="483x56.jpg" crc="3962450968" seo="true" ref="index"/>
+    <file name="183x56.jpg" crc="4071040899" seo="true" ref="index"/>
+    <file name="профи 51083x56.jpg" crc="385989621" seo="true" ref="index"/>
+    <file name="283x56.jpg" crc="348715296" seo="true" ref="index"/>
+    <file name="профи 57483x56.jpg" crc="4283008065" seo="true" ref="index"/>
+    <file name="профи 58583x56.jpg" crc="498915737" seo="true" ref="index"/>
+    <file name="профи 53683x56.jpg" crc="4212705454" seo="true" ref="index"/>
+    <file name="383x56.jpg" crc="435695374" seo="true" ref="index"/>
+    <file name="профи 52544x67.jpg" crc="3795721651" seo="true" ref="index"/>
+    <file name="2488x59.jpg" crc="497947141" seo="true" ref="index"/>
+    <file name="img_011588x59.jpg" crc="182421224" seo="true" ref="index"/>
+    <file name="img_951788x59.jpg" crc="3809501661" seo="true" ref="index"/>
+    <file name="img_9587 — копия88x59.jpg" crc="96418277" seo="true" ref="index"/>
+    <file name="профи 70488x59.jpg" crc="4180462295" seo="true" ref="index"/>
+    <file name="профи 72288x59.jpg" crc="172214111" seo="true" ref="index"/>
+    <file name="профи 75488x59.jpg" crc="4045254902" seo="true" ref="index"/>
+    <file name="профи 77088x59.jpg" crc="4083020073" seo="true" ref="index"/>
+    <file name="профи 80142x62.jpg" crc="3915702447" seo="true" ref="index"/>
+    <file name="профи 84788x59.jpg" crc="3835363951" seo="true" ref="index"/>
+    <file name="профи 89288x59.jpg" crc="273625375" seo="true" ref="index"/>
+    <file name="профи 89688x59.jpg" crc="227224812" seo="true" ref="index"/>
+    <file name="10903979_925273264156955_8017053842130929153_o88x59.jpg" crc="4186998860" seo="true" ref="index"/>
+    <file name="профи 07988x59.jpg" crc="4074294356" seo="true" ref="index"/>
+    <file name="11004621_978627492154865_6079466434870298381_o88x59.jpg" crc="458659954" seo="true" ref="index"/>
+    <file name="11084009_978626722154942_997867090497135796_o88x59.jpg" crc="3988146275" seo="true" ref="index"/>
+    <file name="11084115_978627348821546_2200776681225808424_o88x59.jpg" crc="4155975940" seo="true" ref="index"/>
+    <file name="11090904_978627442154870_5561408662696332888_o42x62.jpg" crc="4059229694" seo="true" ref="index"/>
+    <file name="11102873_978626905488257_3725201318286135029_o88x59.jpg" crc="3760554509" seo="true" ref="index"/>
+    <file name="11103056_978627065488241_3937242556996969089_o88x59.jpg" crc="4200677565" seo="true" ref="index"/>
+    <file name="11113006_978626778821603_6373171751487794181_o88x59.jpg" crc="344510753" seo="true" ref="index"/>
+    <file name="img_835588x59.jpg" crc="484077451" seo="true" ref="index"/>
+    <file name="img_837288x59.jpg" crc="237017428" seo="true" ref="index"/>
+    <file name="img_839288x59.jpg" crc="424017023" seo="true" ref="index"/>
+    <file name="img_839388x59.jpg" crc="3883565350" seo="true" ref="index"/>
+    <file name="img_839488x59.jpg" crc="4058879672" seo="true" ref="index"/>
+    <file name="пейзажи88x59.jpg" crc="166055933" seo="true" ref="index"/>
+    <file name="репортаж188x59.jpg" crc="4038226980" seo="true" ref="index"/>
+    <file name="профи 72988x59.jpg" crc="424056552" seo="true" ref="index"/>
+    <file name="профи 87188x59.jpg" crc="4020903711" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="обрамление-u1656.png" crc="3831766121" ref="index"/>
+    <file name="gallery button for reginas site.png" crc="355521465" ref="index"/>
+    <file name="gallery button for reginas site-under the arrow.png" crc="134050894" ref="index"/>
+    <file name="gallery button for reginas site-when pushed.png" crc="3783727907" ref="index"/>
+    <file name="u1711-4.png" crc="344790198" ref="index"/>
+    <file name="u1707-4.png" crc="57876342" ref="index"/>
+    <file name="лого вк-u430-fr.png" crc="4162603106" ref="index"/>
+    <file name="лого вк-u430-r-fr.png" crc="136232230" ref="index"/>
+    <file name="лого вк-u430-m-fr.png" crc="448382695" ref="index"/>
+    <file name="facebook button-обычный.png" crc="274203667" ref="index"/>
+    <file name="facebook button-при наведении.png" crc="3992095465" ref="index"/>
+    <file name="facebook button-при нажатии.png" crc="404258495" ref="index"/>
+    <file name="инстаграм лого-instagram_logo.png" crc="3867838627" ref="index"/>
+    <file name="инстаграм лого-при наведении.png" crc="4288087910" ref="index"/>
+    <file name="инстаграм лого-при нажатии.png" crc="3822290654" ref="index"/>
+    <file name="pricebutton-u1726.png" crc="231565266" ref="index"/>
+    <file name="pricebutton-u1726-r.png" crc="4038846457" ref="index"/>
+    <file name="pricebutton-u1726-m.png" crc="367211030" ref="index"/>
+    <file name="регина фотограф лого flat interactive-обычное лого.png" crc="3787372890" ref="index"/>
+    <file name="регина фотограф лого flat interactive-при нажатии.png" crc="3968335734" ref="index"/>
+    <file name="специальное предложение.png" crc="4200814361" seo="true" ref="index"/>
+    <file name="pricebutton-u1775-fr.png" crc="3820340855" ref="index"/>
+    <file name="pricebutton-u1775-r-fr.png" crc="253174545" ref="index"/>
+    <file name="pricebutton-u1775-m-fr.png" crc="345190801" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4026595522" seo="true" mt="1450369502217" redirect="true"/>
+</manifest>
